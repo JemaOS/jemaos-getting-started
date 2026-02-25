@@ -41,7 +41,7 @@ Votre compte Jema est le cœur de votre écosystème numérique. Il assure la co
 Si l'automatisme ne se déclenche pas sur une configuration matérielle spécifique :
 
 1.  Utilisez les **boutons physiques** intégrés à votre Dispositif Jema.
-2.  Sélectionnez la **marque de votre ordinateur** (Dell, HP, Lenovo, Apple, etc.).
+2.  Sélectionnez la **marque de votre ordinateur** (Dell, HP, Lenovo, etc.).
 3.  **Redémarrez**. Cette action force l'alignement technologique avec votre carte mère.
 
 ---
