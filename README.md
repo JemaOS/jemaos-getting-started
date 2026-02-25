@@ -52,9 +52,9 @@ JemaOS optimise et prolonge la vie de vos ordinateurs de 2010 à aujourd'hui :
 
 | Dispositif Jema | Architecture Cible | Cycle de vie |
 | :--- | :--- | :--- |
-| **Édition Intel Legacy** | Core i3/i5/i7 (Gen 3 à 7) | Réhabilitation (2010—2017) |
-| **Édition Intel Modern** | Intel Core i3/i5/i7 (Gen 8+) | Performance (2018—2024) |
-| **Édition AMD** | Tous processeurs AMD | Optimisation (2010—2024) |
+| **Édition Intel Legacy** | Core i3/i5/i7 (Gen 3 à 7) | (2010—2017) |
+| **Édition Intel Modern** | Intel Core i3/i5/i7 (Gen 8+) | (2018—2024) |
+| **Édition AMD** | Tous processeurs AMD | (2010—2024) |
 
 ---
 
