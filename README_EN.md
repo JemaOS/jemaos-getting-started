@@ -16,9 +16,12 @@ Delivered exclusively via our **Jema Devices**, it rehabilitates your IT infrast
 
 Bring your hardware back to life in three simple steps, without ever touching the BIOS:
 
-1.  **Connect**: Insert the Jema Device into a USB port on your computer.
-2.  **Launch**: Power on your PC. Our boot manager ensures an immediate and secure startup.
-3.  **Authenticate**: Log in via the **Jema Technology SaaS** interface.
+1.  **Connect**: Insert the Jema Device into a USB port.
+2.  **Secure Boot Validation (Once)**: 
+    * If a blue/black screen appears on the first boot, select **"Enroll MOK"**.
+    * Choose **"Continue"**, then **"Yes"** to validate the JemaOS key.
+    * **This step is only required for the initial setup.**
+3.  **Launch & Authenticate**: Log in via the **Jema Technology SaaS** interface.
 
 ---
 
