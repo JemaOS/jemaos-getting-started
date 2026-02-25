@@ -48,13 +48,13 @@ Si l'automatisme ne se déclenche pas sur une configuration matérielle spécifi
 
 ## ♻️ Guide de Compatibilité & Économie Circulaire
 
-JemaOS optimise et prolonge la vie de vos ordinateurs de 2010 à aujourd'hui :
+JemaOS optimise et prolonge la vie de vos ordinateurs compatibles de 2010 à 2025 :
 
-| Dispositif Jema | Architecture Cible | Cycle de vie |
+| Dispositif Jema | Architecture Cible | Compatibilité |
 | :--- | :--- | :--- |
-| **Édition Intel Legacy** | Core i3/i5/i7 (Gen 3 à 7) | (2010—2017) |
-| **Édition Intel Modern** | Intel Core i3/i5/i7 (Gen 8+) | (2018—2024) |
-| **Édition AMD** | Tous processeurs AMD | (2010—2024) |
+| **Édition Intel Legacy** | Core i3/i5/i7 (Gen 3 à 7) | Modèles 2010 — 2017 |
+| **Édition Intel Modern** | Intel Core i3/i5/i7 (Gen 8+) | Modèles 2018 — 2025 |
+| **Édition AMD** | Tous processeurs AMD | Modèles 2010 — 2025 |
 
 ---
 
