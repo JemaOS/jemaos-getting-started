@@ -17,8 +17,11 @@ Livré exclusivement via nos **Dispositifs Jema**, il permet de réhabiliter vos
 Redonnez vie à votre matériel en trois étapes, sans jamais toucher au BIOS :
 
 1.  **Connexion** : Insérez le Dispositif Jema sur un port USB de votre ordinateur.
-2.  **Lancement** : Allumez votre PC. Notre gestionnaire de démarrage assure un boot immédiat et sécurisé.
-3.  **Authentification** : Connectez-vous via l'interface **SaaS Jema Technology**.
+2.  **Validation Secure Boot (Unique)** : 
+    * Si un écran bleu/noir s'affiche au premier démarrage, sélectionnez **"Enroll MOK"**.
+    * Choisissez **"Continue"**, puis **"Yes"** pour valider la clé JemaOS.
+    * **Cette manipulation ne s'effectue qu'une seule fois.**
+3.  **Lancement & Authentification** : Le système démarre. Connectez-vous via l'interface **SaaS Jema Technology**.
 
 ---
 
