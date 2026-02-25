@@ -48,13 +48,13 @@ If the automatic boot does not trigger on a specific hardware configuration:
 
 ## ♻️ Compatibility Guide & Circular Economy
 
-JemaOS optimizes and extends the life of your computers from 2010 to the present:
+JemaOS optimizes and extends the life of compatible computers from 2010 to 2025:
 
-| Jema Device | Target Architecture | Life Cycle |
+| Jema Device | Target Architecture | Compatibility |
 | :--- | :--- | :--- |
-| **Intel Legacy Edition** | Core i3/i5/i7 (Gen 3 to 7) | Rehabilitation (2010—2017) |
-| **Intel Modern Edition** | Intel Core i3/i5/i7 (Gen 8+) | Performance (2018—2024) |
-| **AMD Edition** | All AMD Processors | Optimization (2010—2024) |
+| **Intel Legacy Edition** | Core i3/i5/i7 (Gen 3 to 7) | 2010 — 2017 Models |
+| **Intel Modern Edition** | Intel Core i3/i5/i7 (Gen 8+) | 2018 — 2025 Models |
+| **AMD Edition** | All AMD Processors | 2010 — 2025 Models |
 
 ---
 
