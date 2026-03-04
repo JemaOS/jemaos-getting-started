@@ -18,6 +18,13 @@ Livré exclusivement via nos **Dispositifs Jema**, il permet de réhabiliter vos
 
 Redonnez vie à votre matériel en trois étapes, sans jamais toucher au BIOS :
 
+### Les Dispositifs Jema
+Voici les deux modèles disponibles pour votre infrastructure :
+
+| Modèle Black | Modèle White |
+| :---: | :---: |
+| ![Dispositif Jema Black](https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_black.jpeg) | ![Dispositif Jema White](https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_white.jpeg) |
+
 1.  **Connexion** : Insérez le Dispositif Jema sur un port USB de votre ordinateur.
 2.  **Validation Secure Boot (Unique)** : 
     * Si un écran bleu/noir s'affiche au premier démarrage, sélectionnez **"Enroll MOK"**.
@@ -49,19 +56,12 @@ Le SaaS Jema offre aux entreprises et collectivités une maîtrise totale sur le
 
 ### 📂 Sauvegardes & Continuité
 ![Gestion des sauvegardes](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221607.png)
-*Visualisez et restaurez vos points de sauvegarde en un clic pour garantir la pérennité de vos fichiers.*
 
 ### 👥 Gestion des Utilisateurs
 ![Gestion des utilisateurs](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221620.png)
-*Administrez les comptes de vos collaborateurs et contrôlez les accès de manière granulaire.*
 
 ### 🔑 Dispositifs & Licences
 ![Gestion des dispositifs](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221638.png)
-*Suivez l'état de vos dispositifs Jema physiques et gérez vos licences d'exploitation en temps réel.*
-
-### 💳 Facturation & Paiements
-![Gestion de la facturation](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221650.png)
-*Accédez à vos factures et gérez vos abonnements SaaS en toute transparence.*
 
 ---
 
