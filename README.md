@@ -51,11 +51,11 @@ Le SaaS Jema offre aux entreprises et collectivités une maîtrise totale sur le
 ![Gestion des sauvegardes](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221607.png)
 *Visualisez et restaurez vos points de sauvegarde en un clic pour garantir la pérennité de vos fichiers.*
 
-### 👥 Gestion des Utilisateurs & Licences
+### 👥 Gestion des Utilisateurs
 ![Gestion des utilisateurs](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221620.png)
 *Administrez les comptes de vos collaborateurs et contrôlez les accès de manière granulaire.*
 
-### 🔑 Dispositifs & Flotte
+### 🔑 Dispositifs & Licences
 ![Gestion des dispositifs](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221638.png)
 *Suivez l'état de vos dispositifs Jema physiques et gérez vos licences d'exploitation en temps réel.*
 
