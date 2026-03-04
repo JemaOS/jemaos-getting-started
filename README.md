@@ -1,12 +1,12 @@
-# ⬥ JemaOS : Un Système D'exploitation Français et Open Core
+# ⬥ JemaOS : Un Système d'Exploitation Français et Open Core
 
-**L'OS souverain qui défie l'obsolescence.**
+**L'OS souverain qui défie l'obsolescence programmée.**
 *Économie Circulaire • Performance • Sécurité Native*
 
 ---
 
 ## ⬢ Vision & Engagement
-JemaOS n'est pas un simple système d'exploitation : c'est une réponse concrète à l'obsolescence programmée. 
+JemaOS est bien plus qu'un simple système d'exploitation : c'est une réponse concrète à l'obsolescence programmée. 
 
 ![JemaOS Interface - Mode Clair](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_jemaos/Screenshot%202026-03-04%2021.25.52.png)
 
@@ -16,7 +16,7 @@ Livré exclusivement via nos **Dispositifs Jema**, il permet de réhabiliter vos
 
 ## 🚀 Getting Started : L'expérience Plug & Play
 
-Redonnez vie à votre matériel en trois étapes, sans jamais toucher au BIOS :
+Redonnez vie à votre matériel en trois étapes simples, sans jamais toucher au BIOS :
 
 ### Les Dispositifs Jema
 Voici les deux modèles disponibles pour votre infrastructure :
@@ -29,8 +29,8 @@ Voici les deux modèles disponibles pour votre infrastructure :
 2.  **Validation Secure Boot (Unique)** : 
     * Si un écran bleu/noir s'affiche au premier démarrage, sélectionnez **"Enroll MOK"**.
     * Choisissez **"Continue"**, puis **"Yes"** pour valider la clé JemaOS.
-    * **Cette manipulation ne s'effectue qu'une seule fois.**
-3.  **Lancement & Authentification** : Le système démarre. Connectez-vous via l'interface **SaaS Jema Technology**.
+    * **Cette étape n'est requise que lors de la configuration initiale.**
+3.  **Lancement & Authentification** : Connectez-vous via l'interface **SaaS Jema Technology**.
 
 ![Connexion Client SaaS](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221414.png)
 *Interface d'authentification sécurisée pour accéder à votre environnement Jema.*
@@ -44,32 +44,42 @@ Votre compte Jema est le cœur de votre écosystème numérique. Il assure la co
 ![Tableau de bord SaaS](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221541.png)
 
 * **Mode Connecté (SaaS)** : Activez la pleine puissance de l'écosystème Jema.
-    * **Backups automatiques** : Vos données sont sécurisées en continu.
+    * **Sauvegardes automatiques** : Vos données sont sécurisées en continu.
     * **Mises à jour** : Système toujours à jour sans intervention.
     * **Gestion de parc** : Contrôle centralisé et gestion des droits d'accès.
+    * **Support** : Assistance technique prioritaire.
+* **Mode Local (Hors-ligne)** : Accessible sans connexion réseau via un compte local.
+    * > ⚠️ **Note Importante** : Le mode local est une solution de dépannage. Il ne donne pas accès aux avantages SaaS (pas de sauvegarde, pas de gestion centralisée, pas de support).
 
 ---
 
-## 🖥️ Console d'Administration Jema (SaaS)
+## 🛠️ Assistance au démarrage (Procédure d'urgence)
 
-Le SaaS Jema offre aux entreprises et collectivités une maîtrise totale sur leur infrastructure numérique :
+Si le démarrage automatique ne se déclenche pas sur une configuration matérielle spécifique :
 
-### 📂 Sauvegardes & Continuité
-![Gestion des sauvegardes](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221607.png)
+1.  Utilisez les **boutons physiques** intégrés à votre Dispositif Jema.
+2.  Sélectionnez la **marque de votre ordinateur** (Dell, HP, Lenovo, etc.).
+3.  **Redémarrez**. Cette action force l'alignement technologique avec votre carte mère.
 
-### 👥 Gestion des Utilisateurs
-![Gestion des utilisateurs](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221620.png)
+---
 
-### 🔑 Dispositifs & Licences
-![Gestion des dispositifs](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221638.png)
+## ♻️ Guide de Compatibilité & Économie Circulaire
+
+JemaOS optimise et prolonge la vie des ordinateurs compatibles de 2010 à 2025 :
+
+| Dispositif Jema | Architecture Cible | Compatibilité |
+| :--- | :--- | :--- |
+| **Intel Legacy Edition** | Core i3/i5/i7 (Gen 3 à 7) | Modèles 2010 — 2017 |
+| **Intel Modern Edition** | Intel Core i3/i5/i7 (Gen 8+) | Modèles 2018 — 2025 |
+| **AMD Edition** | Tous processeurs AMD | Modèles 2010 — 2025 |
 
 ---
 
 ## 🛡️ Un Rempart Durable
 
-* **Souveraineté Totale** : Technologie française pour une maîtrise de bout en bout.
+* **Souveraineté Totale** : Technologie française pour une maîtrise de vos données de bout en bout.
 * **Éco-Responsabilité** : Réduction de l'empreinte carbone en évitant le remplacement inutile du matériel.
-* **Sécurité Native** : Zéro antivirus requis. Système blindé par conception (*Secure by Design*).
+* **Sécurité Native** : Zéro antivirus requis. Système durci par conception (*Secure by Design*).
 * **Respect du Matériel Hôte** : JemaOS fonctionne en isolation complète sans jamais altérer le disque dur interne de l'ordinateur.
 
 ---
