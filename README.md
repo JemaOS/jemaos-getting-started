@@ -23,7 +23,7 @@ Voici les deux modèles disponibles pour votre infrastructure :
 
 | Modèle Black | Modèle White |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_black.jpeg" style="width:200px; height:200px; object-fit:cover; border-radius:8px;" alt="Dispositif Jema Black"> | <img src="https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_white.jpeg" style="width:200px; height:200px; object-fit:cover; border-radius:8px;" alt="Dispositif Jema White"> |
+| <img src="https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_black.jpeg" style="width:200px; height:200px; object-fit:contain; border-radius:8px; background-color: #f7f7f7;" alt="Dispositif Jema Black"> | <img src="https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_white.jpeg" style="width:200px; height:200px; object-fit:contain; border-radius:8px; background-color: #f7f7f7;" alt="Dispositif Jema White"> |
 
 1.  **Connexion** : Insérez le Dispositif Jema sur un port USB de votre ordinateur.
 2.  **Validation Secure Boot (Unique)** : 
