@@ -8,7 +8,7 @@
 ## ⬢ Vision & Engagement
 JemaOS is more than just an operating system: it is a concrete response to planned obsolescence. 
 
-![JemaOS Interface - Mode Clair](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_jemaos/Screenshot%202026-03-04%2021.25.52.png)
+![JemaOS Interface - Light Mode](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_jemaos/Screenshot%202026-03-04%2021.25.52.png)
 
 Delivered exclusively via our **Jema Devices**, it rehabilitates your IT infrastructure without any complex technical maneuvers. JemaOS guarantees total sovereignty over your data while extending the lifespan of your hardware.
 
@@ -18,22 +18,22 @@ Delivered exclusively via our **Jema Devices**, it rehabilitates your IT infrast
 
 Bring your hardware back to life in three simple steps, without ever touching the BIOS:
 
-### Les Dispositifs Jema
-Voici les deux modèles disponibles pour votre infrastructure :
+### Jema Devices
+Here are the two models available for your infrastructure:
 
-| Modèle Black | Modèle White |
+| Black Model | White Model |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_black.jpeg" height="200" alt="Dispositif Jema Black"> | <img src="https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_white.jpeg" height="200" alt="Dispositif Jema White"> |
+| <img src="https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_black.jpeg" height="200" alt="Jema Device Black"> | <img src="https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_white.jpeg" height="200" alt="Jema Device White"> |
 
-1.  **Connect**: Insert the Jema Device into a USB port.
+1.  **Connect**: Insert the Jema Device into a USB port on your computer.
 2.  **Secure Boot Validation (Once)**: 
     * If a blue/black screen appears on the first boot, select **"Enroll MOK"**.
     * Choose **"Continue"**, then **"Yes"** to validate the JemaOS key.
-    * **This step is only required for the initial setup.**
+    * **This step is only required during the initial setup.**
 3.  **Launch & Authenticate**: Log in via the **Jema Technology SaaS** interface.
 
-![Connexion Client SaaS](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221414.png)
-*Interface d'authentification sécurisée pour accéder à votre environnement Jema.*
+![SaaS Client Login](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221414.png)
+*Secure authentication interface to access your Jema environment.*
 
 ---
 
@@ -41,7 +41,7 @@ Voici les deux modèles disponibles pour votre infrastructure :
 
 Your Jema account is the heart of your digital ecosystem. It ensures work continuity, regardless of the machine you are using.
 
-![Tableau de bord SaaS](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221541.png)
+![SaaS Dashboard](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221541.png)
 
 * **Connected Mode (SaaS)**: Activate the full power of the Jema ecosystem.
     * **Automatic Backups**: Your data is continuously secured.
