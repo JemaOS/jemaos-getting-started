@@ -23,13 +23,13 @@ Voici les deux modèles disponibles pour votre infrastructure :
 
 | Modèle Black | Modèle White |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_black.jpeg" style="width:200px; height:200px; object-fit:contain; border-radius:8px; background-color: #f7f7f7;" alt="Dispositif Jema Black"> | <img src="https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_white.jpeg" style="width:200px; height:200px; object-fit:contain; border-radius:8px; background-color: #f7f7f7;" alt="Dispositif Jema White"> |
+| <div style="display:inline-block; width:200px; height:200px; border-radius:8px; overflow:hidden; border: 1px solid #ccc; background-color:#f7f7f7;"><img src="https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_black.jpeg" style="width:100%; height:100%; object-fit:cover;" alt="Dispositif Jema Black"></div> | <div style="display:inline-block; width:200px; height:200px; border-radius:8px; overflow:hidden; border: 1px solid #ccc; background-color:#f7f7f7;"><img src="https://raw.githubusercontent.com/JemaOS/.github/main/profile/dispositifs_jema/Dispositif_Jema_white.jpeg" style="width:100%; height:100%; object-fit:cover;" alt="Dispositif Jema White"></div> |
 
 1.  **Connexion** : Insérez le Dispositif Jema sur un port USB de votre ordinateur.
 2.  **Validation Secure Boot (Unique)** : 
     * Si un écran bleu/noir s'affiche au premier démarrage, sélectionnez **"Enroll MOK"**.
     * Choisissez **"Continue"**, puis **"Yes"** pour valider la clé JemaOS.
-    * **Cette manipulation ne s'effectue qu'une seule fois.**
+    * **Cette manipulation ne s'effectue qu'esne seule fois.**
 3.  **Lancement & Authentification** : Le système démarre. Connectez-vous via l'interface **SaaS Jema Technology**.
 
 ![Connexion Client SaaS](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_SaaS/Capture%20d_%C3%A9cran%202026-03-04%20221414.png)
