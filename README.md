@@ -8,6 +8,8 @@
 ## ⬢ Vision & Engagement
 JemaOS n'est pas un simple système d'exploitation : c'est une réponse concrète à l'obsolescence programmée. 
 
+![JemaOS Interface - Mode Clair](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_jemaos/Screenshot%202026-03-04%2021.25.52.png)
+
 Livré exclusivement via nos **Dispositifs Jema**, il permet de réhabiliter vos parcs informatiques sans aucune manipulation technique complexe. JemaOS garantit une souveraineté totale sur vos données tout en prolongeant la vie de votre matériel.
 
 ---
@@ -23,17 +25,24 @@ Redonnez vie à votre matériel en trois étapes, sans jamais toucher au BIOS :
     * **Cette manipulation ne s'effectue qu'une seule fois.**
 3.  **Lancement & Authentification** : Le système démarre. Connectez-vous via l'interface **SaaS Jema Technology**.
 
+![Menu des applications JemaOS](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_jemaos/Screenshot%202026-03-04%2021.27.50.png)
+
 ---
 
 ## 👤 Identité & Souveraineté SaaS
 
 Votre compte Jema est le cœur de votre écosystème numérique. Il assure la continuité de votre travail, quelle que soit la machine utilisée.
 
+![Interface JemaOS - Mode Sombre](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_jemaos/Screenshot%202026-03-04%2021.26.07.png)
+
 * **Mode Connecté (SaaS)** : Activez la pleine puissance de l'écosystème Jema.
     * **Backups automatiques** : Vos données sont sécurisées en continu.
     * **Mises à jour** : Système toujours à jour sans intervention.
     * **Gestion de parc** : Contrôle centralisé et gestion des droits d'accès.
     * **Support** : Assistance technique prioritaire.
+
+![Système de Backup SaaS JemaOS](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_jemaos/Screenshot%202026-03-04%2021.32.45.png)
+
 * **Mode Local (Hors-ligne)** : Accessible sans réseau via un compte local.
     * > ⚠️ **Note importante** : Le mode local est une solution de dépannage. Il ne permet pas de bénéficier des services SaaS (pas de sauvegardes, pas de gestion centralisée, pas de support).
 
