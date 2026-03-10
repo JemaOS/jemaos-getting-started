@@ -69,7 +69,7 @@ JemaOS optimise et prolonge la vie des ordinateurs compatibles de 2010 à 2025 :
 
 | Dispositif Jema | Architecture Cible | Compatibilité |
 | :--- | :--- | :--- |
-| **Intel Legacy Edition** | Core i3/i5/i7 (Gen 3 à 7) | Modèles 2010 — 2017 |
+| **Intel Legacy Edition** | Core i3/i5/i7 (Gen 2 à 7) | Modèles 2010 — 2017 |
 | **Intel Modern Edition** | Intel Core i3/i5/i7 (Gen 8+) | Modèles 2018 — 2025 |
 | **AMD Edition** | Tous processeurs AMD | Modèles 2010 — 2025 |
 
