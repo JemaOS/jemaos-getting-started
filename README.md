@@ -18,7 +18,9 @@ Livré exclusivement via nos **Dispositifs Jema**, il permet de réhabiliter vos
 
 Redonnez vie à votre matériel en trois étapes simples, sans jamais toucher au BIOS :
 
-### Les Dispositifs Jema
+### Les Dispositifs Jema : Une innovation technologique brevetée
+**Il ne s'agit pas d'une simple clé USB.** Le Dispositif Jema est un véritable système embarqué complet et autonome. Faisant l'objet d'un **brevet**, ce matériel a été conçu et développé de A à Z par Jema Technology pour répondre spécifiquement aux besoins du déploiement instantané. Intégrant son propre processeur, sa mémoire vive (RAM) et son espace de stockage interne, il s'agit d'un ordinateur miniature à part entière. C'est cette ingénierie propriétaire qui lui confère son caractère **100 % Plug & Play**, lui permettant de s'affranchir des limites matérielles de la machine hôte et de s'adapter immédiatement à chaque marque de PC.
+
 Voici les deux modèles disponibles pour votre infrastructure :
 
 | Modèle Black | Modèle White |
